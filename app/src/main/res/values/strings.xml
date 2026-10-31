@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Café Connect</string>
+    <string name="tagline">Order. Sip. Enjoy.</string>
+    <string name="logo_desc">Café Connect logo</string>
+
+    <!-- Login -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="hint_email_or_username">Email or username</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Full name</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="hint_new_password">New password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="demo_hint">Demo account: demo@cafe.com / Cafe@123</string>
+
+    <!-- Register -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Join Café Connect today</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="back_to_login">Already have an account? Login</string>
+    <string name="register_success">Account created. Please login.</string>
+
+    <!-- Forgot / Reset -->
+    <string name="forgot_title">Forgot Password</string>
+    <string name="forgot_subtitle">Enter your registered email and we will send a recovery link.</string>
+    <string name="btn_send_link">Send Recovery Link</string>
+    <string name="recovery_sent">Recovery link sent to %1$s (simulated)</string>
+    <string name="reset_title">Reset Password</string>
+    <string name="reset_subtitle">Choose a new password for your account.</string>
+    <string name="btn_reset">Reset Password</string>
+    <string name="reset_success">Password updated. Please login.</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_welcome">Welcome, %1$s!</string>
+    <string name="dashboard_subtitle">What would you like to do today?</string>
+    <string name="module_menu">Menu</string>
+    <string name="module_cart">My Cart</string>
+    <string name="module_orders">My Orders</string>
+    <string name="module_offers">Offers</string>
+    <string name="module_favourites">Favourites</string>
+    <string name="module_profile">Profile</string>
+    <string name="coming_soon">%1$s: coming soon</string>
+    <string name="module_icon_desc">Module icon</string>
+
+    <!-- Profile -->
+    <string name="profile_title">My Profile</string>
+    <string name="profile_name_label">Name</string>
+    <string name="profile_email_label">Email</string>
+    <string name="btn_logout">Logout</string>
+    <string name="logged_out">You have been logged out</string>
+
+    <!-- Errors -->
+    <string name="error_required">This field is required</string>
+    <string name="error_invalid_email">Enter a valid email address</string>
+    <string name="error_short_password">Password must be at least 6 characters</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_invalid_credentials">Invalid email/username or password</string>
+    <string name="error_email_exists">This email is already registered</string>
+    <string name="error_email_not_found">No account found with this email</string>
+</resources>
